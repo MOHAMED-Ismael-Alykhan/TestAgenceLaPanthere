@@ -819,7 +819,7 @@ h4 {
   border-color: #364577;
 }
 
-.bg-dots-bg {
+/*.bg-dots-bg {
   background-image: url("img/dots-bg.png");
 }
 
@@ -833,7 +833,7 @@ h4 {
 
 .bg-presentation {
   background-image: url("img/image-de-presentation.jpg");
-}
+}*/
 
 @media (max-width: 1024px) {
   .bloc {
